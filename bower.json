@@ -1,0 +1,30 @@
+{
+    "name": "mobiscroll",
+    "version": "2.6.2",
+    "main": [
+        "js/mobiscroll.custom-2.6.2.min.js",
+        "css/mobiscroll.custom-2.6.2.min.css"
+    ],
+    "description": "A wheel scroller control optimized for touchscreens to easily enter date/time. It can easily be customized to support any custom values.",
+    "keywords": [
+        "ui",
+        "input",
+        "form",
+        "html5",
+        "mobile"
+        "scroller"
+    ],
+    "authors": [{
+        "name": "Acid Media"
+    }, {
+        "homepage": "http://theacidmedia.net"
+    }],
+    "ignore": [
+        ".git",
+        ".gitignore"
+    ],
+    "dependencies": {
+        "jquery": ">=1.7"
+    },
+    "homepage": "http://mobiscroll.com/"
+}
